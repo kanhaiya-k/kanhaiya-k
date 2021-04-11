@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning Javascript , Html , Css 
 - 💞️ I’m looking to collaborate on Web development 
-- 📫 How to reach me on kanhaiyafeb@gmail.com
+- 📫 How to reach me on kanhaiya15feb@gmail.com
 
 <!---
 kanhaiya-k/kanhaiya-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
