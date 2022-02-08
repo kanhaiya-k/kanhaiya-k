@@ -15,11 +15,15 @@
 
 - 📫 How to reach me **kanhaiyakumar2784@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KEO8GxgnZCMZ0UFI6Xp_pq0NZjibZCEK/view?usp=sharing](https://drive.google.com/file/d/1KEO8GxgnZCMZ0UFI6Xp_pq0NZjibZCEK/view?usp=sharing)
+- 📄 Know about my experiences [https://rb.gy/sz1w1z](https://rb.gy/sz1w1z)
+
+- ⚡ Fun fact **The GitHub is written in Ruby on Rails and Erlang programming language by its cofounders.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kanhaiya-k-73409b134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanhaiya-k-73409b134" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kanhaiya-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanhaiya-k" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kanhaiyak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kanhaiyak" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kanh2784" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kanh2784" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
