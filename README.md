@@ -4,7 +4,7 @@
 
 
 
- - 🔭 I’m currently working on **Beardo.in**
+ - 🔭 I’m currently working on **tervis.com**
 
 - 🌱 I’m currently learning **React**
 
